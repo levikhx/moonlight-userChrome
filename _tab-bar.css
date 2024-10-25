@@ -77,7 +77,7 @@
 /* hide navigation bar when it is not focused; use Ctrl+L to get focus */
 #main-window:not([customizing])
   #navigator-toolbox:not(:focus-within):not(:hover) {
-  margin-top: -45px;
+  margin-top: -39px;
 }
 
 #main-window:not([customizing]) #titlebar {

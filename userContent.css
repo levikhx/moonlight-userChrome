@@ -32,8 +32,8 @@
 /* Scrollbar */
 
 *:not(select) {
-    scrollbar-color: var(--moonlight-gray-5) var(--moonlight-gray-2) !important;
-    scrollbar-width: thin !important;
+    /* scrollbar-color: var(--moonlight-gray-5) var(--moonlight-gray-2) !important;
+    scrollbar-width: thin !important; */
 }
 ::-webkit-scrollbar,
 .integrations-select-repos::-webkit-scrollbar {
